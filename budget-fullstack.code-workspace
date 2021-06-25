@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "api-react-starter",
+			"path": "../api-react-starter"
+		},
+		{
+			"name": "budget-api",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
